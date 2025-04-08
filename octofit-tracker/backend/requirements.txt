@@ -1,4 +1,4 @@
 Create the requirements.txt file for the backend with all the necessary Python dependencies.
 
-# Add Django as a dependency for the backend
-Django>=3.2,<4.0
+# Update Django version to match the expected requirement
+Django==4.1
